@@ -3,7 +3,7 @@ Getting Support
 
 The first point of contact for all issues and queries is the Isambard Support helpdesk, which can be reached via email at isambard-support@gw4.ac.uk.
 
-Support is available Monday to Friday from 9:00 until 17:00, excluding UK public holidays.
+Support is available Monday to Friday from 9:00 until 17:00, excluding UK public holidays and university closed periods.
 
 Please try and provide as much information as possible when raising an issue to allow us to help you more effectively.
 Include your username and project code (if applicable).
